@@ -1,0 +1,9 @@
+#box-1 {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    box-sizing: border-box;
+    display: flex;
+    transform: translateX(19px);
+    backface-visibility: hidden;
+}
